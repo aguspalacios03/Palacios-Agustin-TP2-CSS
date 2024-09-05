@@ -1,0 +1,1 @@
+Este Comit contiene un archivo html que debe ser abierto justo al archivo css que contiene los estilos de la pagina web. Debe ejecutarse con el HTML teniendo el CSS en la misma carpeta, descomprimiendo el archivo zip
